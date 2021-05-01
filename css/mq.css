@@ -5,8 +5,15 @@
     }
 
     .m{
-        width: 15%;
+        width: 25%;
       }
+
+     .n{
+       display: none;
+     }
+     .navbar-wrapper{
+       background: none;
+     }
 
   }
 
@@ -14,4 +21,7 @@
 
 
   @media screen and (min-width: 768px) {
+    .topnav{
+      display: none;
+    }
 }
