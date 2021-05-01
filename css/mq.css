@@ -11,6 +11,10 @@
      .n{
        display: none;
      }
+     .fixed-btn{
+       display: none;
+     }
+
      .navbar-wrapper{
        background: none;
      }
