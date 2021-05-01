@@ -1,0 +1,42 @@
+.fixed-btn{
+    position: fixed;
+    bottom: 92%;
+    right: 3%;
+    background: black;
+    width: 180px;
+    height: 45px;
+    line-height: 45px;
+    text-align: center;
+    border-radius: 3px;
+    box-shadow: 4px 4px 4px black;
+    cursor: pointer;
+  }
+.fixed-btn .bg{
+    -webkit-transition: all 1.5s ease;
+    -moz-transition: all 1.5s ease;
+    -o-transition: all 1.5s ease;
+    -ms-transition: all 1.5s ease;
+    transition: all 1.5s ease;
+    -webkit-filter: blur(5px);
+    filter: blur(5px);
+}
+  
+.fixed-btn p{
+    text-transform: uppercase;
+    font-family: arial;
+    font-weight: 900;
+    color: #fff;
+  }
+  
+  .fixed-btn:hover{
+    -webkit-transition: all .5s ease;
+    -moz-transition: all .5s ease;
+    -o-transition: all .5s ease;
+    -ms-transition: all .5s ease;
+    transition: all .5s ease;
+    -webkit-filter: blur(0px);
+    filter: blur(0px);
+  }
+.fixed-btn:active{
+    box-shadow: 0  0;
+  }

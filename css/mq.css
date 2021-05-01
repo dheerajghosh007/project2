@@ -1,0 +1,17 @@
+@media only screen and (max-width: 768px) {
+    /* For mobile phones: */
+    .mcq{
+      width: 90%;
+    }
+
+    .m{
+        width: 15%;
+      }
+
+  }
+
+    
+
+
+  @media screen and (min-width: 768px) {
+}
