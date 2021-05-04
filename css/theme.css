@@ -523,6 +523,7 @@ span.nav-close:before {
 	}
 }
 @media screen and (max-width:24em) {
+	
 	.grid li {
 			width: 100%;
 	}
@@ -577,6 +578,7 @@ textarea.contact {
 	transition:border linear 0.2s,box-shadow linear 0.2s;
 }
 @media screen and (min-width:768px) {
+	
 	input.contact.col-md-6 {
 		width: 48.5%;
 	}
