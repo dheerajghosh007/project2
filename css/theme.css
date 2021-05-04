@@ -678,3 +678,21 @@ blockquote cite {
 blockquote cite:before {
 	content: "\2014 \2009";
 }
+
+
+/*--------Additional CSS-----------*/
+.s p {
+	text-align: justify;
+
+}
+
+.active{
+	background-color: #cc580c;
+	text-decoration: none;
+	color: white;
+}
+a, a:active, a:visited, a:focus, li{
+	text-decoration: none !important;
+
+}
+
