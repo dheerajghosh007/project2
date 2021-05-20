@@ -8,6 +8,10 @@
       text-align: center;
     }  */
     .mcq{
+      width: 50%;
+      display: flex;
+    }
+    .mcq1{
       width: 90%;
     }
 
