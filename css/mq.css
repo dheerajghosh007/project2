@@ -11,6 +11,10 @@
       width: 90%;
     }
 
+    .timeline__event{
+      width: 90vw !important ;
+    }
+
     .m{
         width: 25%;
       }
